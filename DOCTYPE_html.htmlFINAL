@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project</title>
+        <link rel="stylesheet" href="Luna.css">
+</head>
+<body>
+    <img src="myBanner.jpg"> 
+    <table width="800px">
+    <h1><strong>
+        <link rel="stylesheet" href="Luna.css">
+        Welcome to Our Final Project</strong></h1> <br>
+   <p>For our final project, we wanted to create a single player game that allowed people to choose their character. We chose to use our Bitmojis as characters, who go through different obstascles. y end up meeting up with eachother. To play this game, a player uses the arrows on a keyboard to try their best to get through as many obstacles as they can and make it to the end! This JavaScript code utilizes several arrays and functions to create a two-player game environment. The game involves navigating bitmoji characters through obstacle courses, with different phases and win/lose conditions. The drawing functions (`DrawShirt`, `DrawHead`, `DrawBitmoji`, `drawBitmoji`) generate visual representations of the characters. Three obstacle-drawing functions (`Obstacle1`, `Obstacle2`, `Obstacle3`) contribute to randomly generated obstacle courses. Arrays (`round1` and `round2`) store course information, and the `generateCourseNumbers` function populates these arrays with randomly selected obstacle types. The `CourseCreate` function then renders the obstacle courses on the screen. The game's main loop (`draw`) manages player input, obstacle collisions, and game phases, transitioning between stages based on gate activation and collisions. Additionally, user interface elements include buttons (`startButton` and `restartButton`) for initiating or restarting the game, with mouse clicks triggering corresponding actions. Overall, the code demonstrates the integration of arrays, functions, and p5.js graphics to create an interactive and dynamic gaming experience. </p><br><br>
+   
+   <h2><strong<</h2> 
+   Videos (How to Execute our Program)</h2>
+   <p>Chloe Meyer's Video:</p>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/xgmrNvodKfs" frameborder="0" allowfullscreen></iframe>
+   Luna Richard's Video:
+   <a href="https://drive.google.com/file/d/1xiechUuVdOtQV5_MYdHkkqgRwkwNeE19/view" target="_blank">Link to the File</a>
+
+   <h3><strong<</h3>
+    Our Game (Give it a try!! )
+    <p></p>
+    <iframe src="https://www.khanacademy.org/computer-programming/final-project/6713089770831872">Final " width="600" height="400"></iframe>
+</body>
+</html>
